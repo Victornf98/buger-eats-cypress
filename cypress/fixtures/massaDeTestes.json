@@ -1,0 +1,50 @@
+{
+    "cadastro_sucesso": {
+        "nome": "Victor Ferreira",
+        "cpf": "00000012342",
+        "email": "vitinho.98@hotmail.com",
+        "whatsapp": "11959458256",
+        "endereco": {
+            "cep": "02067008",
+            "rua": "Rua Panças",
+            "numero": "1000",
+            "complemento": "casa 3",
+            "bairro": "Carandiru",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "nome": "Júlia Santos",
+        "cpf": "#UW00012342",
+        "email": "ju.15@hotmail.com",
+        "whatsapp": "11945678932",
+        "endereco": {
+            "cep": "02067008",
+            "rua": "Rua Panças",
+            "numero": "1000",
+            "complemento": "casa 3",
+            "bairro": "Carandiru",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "nome": "João Borges",
+        "cpf": "42244383806",
+        "email": "joao.com.br",
+        "whatsapp": "11945678932",
+        "endereco": {
+            "cep": "02067008",
+            "rua": "Rua Panças",
+            "numero": "1000",
+            "complemento": "casa 3",
+            "bairro": "Carandiru",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
